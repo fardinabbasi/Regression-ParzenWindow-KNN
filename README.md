@@ -7,3 +7,4 @@
 <h3> Q5: Usage of Distance Metrics in KNN </h3>
 <h3> Q6: Non-Linear Regression </h3>
 <h3> Q7: Implementing Ridge Regression on a circular dataset </h3>
+<h3> Q8: Kernel-Based Density Estimation </h3>
